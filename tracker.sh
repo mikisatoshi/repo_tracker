@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd
 cd pi_tracker
 python tracker.py
 cd
